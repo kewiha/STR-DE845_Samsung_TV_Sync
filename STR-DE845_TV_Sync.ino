@@ -1,5 +1,5 @@
 #include <Arduino.h>
-#include <Control-S.h>
+#include "Control-S.h"
 
 #include "PinDefinitionsAndMore.h"
 #define DECODE_SAMSUNG
